@@ -1,4 +1,4 @@
-## CCSF repo overhaul ##
+## CCSF repo overhaul
 
 <!--Write below a toggled list of stuff to do-->
 
