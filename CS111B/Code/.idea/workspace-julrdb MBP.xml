@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ad8c216-f1f5-4867-812a-77e562cb006e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1httKJs1GiRWtgfktulwGhtLeHO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.calculate_fare">
+    <configuration name="Ex3_15_do_whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.M4.Ex3_15_do_whileLoop" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.M4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3_16_do_whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.M4.Ex3_16_do_whileLoop" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.M4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3_17_do_whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.M4.Ex3_17_do_whileLoop" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.M4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worksheet_Conditionalconstructs1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M3.Worksheet_Conditionalconstructs1" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="M3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculate_fare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A4.calculate_fare" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.calculate_fare" />
+        <item itemvalue="Application.Worksheet_Conditionalconstructs1 (1)" />
+        <item itemvalue="Application.Ex3_17_do_whileLoop" />
+        <item itemvalue="Application.Ex3_16_do_whileLoop" />
+        <item itemvalue="Application.Ex3_15_do_whileLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ad8c216-f1f5-4867-812a-77e562cb006e" name="Default Changelist" comment="" />
+      <created>1600842150383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600842150383</updated>
+      <workItem from="1600842161530" duration="1349000" />
+      <workItem from="1600843531922" duration="15000" />
+      <workItem from="1600843587277" duration="1339000" />
+      <workItem from="1600848837218" duration="1893000" />
+      <workItem from="1600851629128" duration="397000" />
+      <workItem from="1600914326813" duration="10673000" />
+      <workItem from="1600972273467" duration="164000" />
+      <workItem from="1600974888309" duration="47000" />
+      <workItem from="1601427641397" duration="518000" />
+      <workItem from="1601428766632" duration="578000" />
+      <workItem from="1601441924502" duration="1143000" />
+      <workItem from="1601445803168" duration="711000" />
+      <workItem from="1601935949751" duration="78000" />
+      <workItem from="1601936126625" duration="456000" />
+      <workItem from="1603748532949" duration="59000" />
+      <workItem from="1603748613246" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="23" key="#Project_Structure" timestamp="1603748566132">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.709@0.23.1280.709" timestamp="1603748566132" />
+    <state x="-1076" y="622" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600842693427">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-1076" y="622" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600842693427" />
+    <state x="770" y="428" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600851613586">
+      <screen x="0" y="23" width="2048" height="1058" />
+    </state>
+    <state x="770" y="428" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/-1080.23.1080.1897/0.23.2048.1058@0.23.2048.1058" timestamp="1600851613586" />
+    <state x="-803" y="751" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600842691905">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-803" y="751" key="#com.intellij.ide.util.TreeClassChooserDialog/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600842691905" />
+    <state x="-837" y="637" key="#convert_money" timestamp="1600842915889">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-837" y="637" key="#convert_money/-1080.0.1080.1920/0.0.2048.1152@-1080.0.1080.1920" timestamp="1600842915889" />
+    <state x="-837" y="625" key="#testClass" timestamp="1600842517585">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-837" y="625" key="#testClass/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600842517585" />
+    <state width="1038" height="243" key="GridCell.Tab.0.bottom" timestamp="1600925718699">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.bottom/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600842648183" />
+    <state width="1038" height="243" key="GridCell.Tab.0.bottom/-1080.23.1080.1897/0.23.2048.1058@-1080.23.1080.1897" timestamp="1600925718699" />
+    <state width="2006" height="298" key="GridCell.Tab.0.bottom/-1080.23.1080.1897/0.23.2048.1058@0.23.2048.1058" timestamp="1600851616071" />
+    <state width="1038" height="243" key="GridCell.Tab.0.center" timestamp="1600925718699">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.center/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600842648182" />
+    <state width="1038" height="243" key="GridCell.Tab.0.center/-1080.23.1080.1897/0.23.2048.1058@-1080.23.1080.1897" timestamp="1600925718699" />
+    <state width="2006" height="298" key="GridCell.Tab.0.center/-1080.23.1080.1897/0.23.2048.1058@0.23.2048.1058" timestamp="1600851616070" />
+    <state width="1038" height="243" key="GridCell.Tab.0.left" timestamp="1600925718698">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.left/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600842648182" />
+    <state width="1038" height="243" key="GridCell.Tab.0.left/-1080.23.1080.1897/0.23.2048.1058@-1080.23.1080.1897" timestamp="1600925718698" />
+    <state width="2006" height="298" key="GridCell.Tab.0.left/-1080.23.1080.1897/0.23.2048.1058@0.23.2048.1058" timestamp="1600851616070" />
+    <state width="1038" height="243" key="GridCell.Tab.0.right" timestamp="1600925718699">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.right/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600842648183" />
+    <state width="1038" height="243" key="GridCell.Tab.0.right/-1080.23.1080.1897/0.23.2048.1058@-1080.23.1080.1897" timestamp="1600925718699" />
+    <state width="2006" height="298" key="GridCell.Tab.0.right/-1080.23.1080.1897/0.23.2048.1058@0.23.2048.1058" timestamp="1600851616070" />
+    <state x="-1008" y="397" key="SettingsEditor" timestamp="1601445840332">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state x="-1031" y="599" key="SettingsEditor/-1080.0.1080.1920/0.0.2048.1152@-1080.0.1080.1920" timestamp="1600843678829" />
+    <state x="-1031" y="599" key="SettingsEditor/-1080.0.1080.1920/0.23.2048.1129@-1080.0.1080.1920" timestamp="1600843844093" />
+    <state x="-1008" y="397" key="SettingsEditor/-1080.23.1080.1897/0.23.2048.1058@-1080.23.1080.1897" timestamp="1601445840332" />
+    <state x="823" y="162" key="SettingsEditor/-1080.23.1080.1897/0.23.2048.1058@0.23.2048.1058" timestamp="1600914383244" />
+    <state x="-847" y="805" key="com.intellij.ide.util.TipDialog" timestamp="1600974889750">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state x="-847" y="792" key="com.intellij.ide.util.TipDialog/-1080.0.1080.1920/0.0.2048.1152@-1080.0.1080.1920" timestamp="1600843590185" />
+    <state x="-847" y="805" key="com.intellij.ide.util.TipDialog/-1080.23.1080.1897/0.23.2048.1058@-1080.23.1080.1897" timestamp="1600974889750" />
+    <state x="442" y="459" key="com.intellij.ide.util.TipDialog/-1080.23.1080.1897/0.23.2048.1058@0.23.2048.1058" timestamp="1600914328352" />
+  </component>
+</project>
